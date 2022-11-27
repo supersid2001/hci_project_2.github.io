@@ -5,10 +5,7 @@ const nextConfig = {
 }
 
 module.exports = {
-  images: {
-    loader: 'akamai',
-    path: '',
-  },
+  images.unoptimized = true
 }
 
 
