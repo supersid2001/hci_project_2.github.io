@@ -2,8 +2,6 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: "/nextjs-pages"
-  assetPrefix: "/nextjs-pages",
 }
 
 module.exports = {
@@ -11,6 +9,8 @@ module.exports = {
     loader: 'akamai',
     path: '',
   },
+  basePath: "/nextjs-pages",
+  assetPrefix: "/nextjs-pages",
 }
 
 
