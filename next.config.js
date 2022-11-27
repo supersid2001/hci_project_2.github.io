@@ -9,8 +9,8 @@ module.exports = {
     loader: 'akamai',
     path: '',
   },
-  basePath: "/nextjs-pages",
-  assetPrefix: "/nextjs-pages",
+  basePath: "/hci_project_2",
+  assetPrefix: "/hci_project_2",
 }
 
 
