@@ -9,8 +9,8 @@ module.exports = {
     loader: 'akamai',
     path: '',
   },
-  basePath: "/hci_project_2",
-  assetPrefix: "/hci_project_2",
+  basePath: "/hci_project_2.github.io",
+  assetPrefix: "/hci_project_2.github.io",
 }
 
 
